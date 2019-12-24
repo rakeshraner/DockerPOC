@@ -1,0 +1,26 @@
+package com.qa.testdocker;
+
+import java.net.MalformedURLException;
+import java.net.URL;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.Test;
+
+public class TestDockerOnFirefox 
+{
+	@Test
+	public void getGoogleTitleOnFirefox() throws MalformedURLException, InterruptedException
+	{
+		DesiredCapabilities fireFoxCapabilities=DesiredCapabilities.firefox();
+		//URL url=new URL("http://localhost:4444/wd/hub");
+		WebDriver driver=new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), fireFoxCapabilities);
+		driver.get("https://www.yahoo.com");
+		System.out.println(driver.getTitle());
+		
+		Thread.sleep(5000);
+		
+		driver.quit();
+	}
+}

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Suite" parallel="false">
+	<parameter name="browser" value="chrome"/>
+    <test name="Smoke Suite">
+
+		<groups>
+         <run>
+            <include name = "Critical" />
+         </run>
+       </groups>
+
+       <packages>
+           <package name="com.morningstar.mpp.tests"/>
+           <package name="com.morningstar.framework"/>
+        </packages>
+
+   <classes>
+          <class name="com.morningstar.mpp.tests.Publisher_Tab_02S_TC_C629901"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_03S_TC_C629902"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_04S_TC_C629903"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_05S_TC_C629904"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_06S_TC_C629905"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_07S_TC_C629906"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_08S_TC_C629907"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_09S_TC_C629908"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_10S_TC_C629909"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_11S_TC_C629910"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_12S_TC_C629911"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_13S_TC_C629912"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_14S_TC_C629913"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_15S_TC_C629914"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_16S_TC_C629915"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_17S_TC_C629916"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_18S_TC_C629917"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_19S_TC_C629918"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_20S_TC_C629919"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_21S_TC_C629920"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_23S_TC_C629922"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_24S_TC_C629923"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_27S_TC_C629926"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_29S_TC_C629928"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_30S_TC_C629929"/>
+            <class name="com.morningstar.mpp.tests.Publisher_Tab_32S_TC_C629931"/>
+            <class name="com.morningstar.mpp.tests.Mapping_01S_TC_C629941"/>
+            <class name="com.morningstar.mpp.tests.Mapping_02S_TC_C629942"/>
+            <class name="com.morningstar.mpp.tests.Mapping_03S_TC_C629943"/>
+            <class name="com.morningstar.mpp.tests.Mapping_04S_TC_C629944"/>
+            <class name="com.morningstar.mpp.tests.Mapping_09S_TC_C629949"/>
+            <class name="com.morningstar.mpp.tests.Mapping_01N_TC_C629952"/>
+            <class name="com.morningstar.mpp.tests.Dynamic_Mapping_01S_TC_C629955"/>
+            <class name="com.morningstar.mpp.tests.Dynamic_Mapping_02S_TC_C629956"/>
+            <class name="com.morningstar.mpp.tests.Dynamic_Mapping_03S_TC_C629957"/>
+            <class name="com.morningstar.mpp.tests.Dynamic_Mapping_04S_TC_C629958"/>
+            <class name="com.morningstar.mpp.tests.Dynamic_Mapping_05S_TC_C629959"/>
+            <class name="com.morningstar.mpp.tests.Dynamic_Mapping_06S_TC_C629960"/>
+            <class name="com.morningstar.mpp.tests.Dynamic_Mapping_07S_TC_C629961"/>
+            <class name="com.morningstar.mpp.tests.Dynamic_Mapping_08S_TC_C629962"/>
+            <class name="com.morningstar.mpp.tests.Dynamic_Mapping_09S_TC_C629963"/>
+            <class name="com.morningstar.mpp.tests.Dynamic_Mapping_10S_TC_C629964"/>
+            <class name="com.morningstar.mpp.tests.Dynamic_Mapping_12S_TC_C629966"/>
+            <class name="com.morningstar.mpp.tests.Dynamic_Mapping_15S_TC_C629968"/>
+            <class name="com.morningstar.mpp.tests.Dynamic_Mapping_17S_TC_C629971"/>
+            <class name="com.morningstar.mpp.tests.Dynamic_Mapping_20S_TC_C629974"/>
+            <class name="com.morningstar.mpp.tests.Dynamic_Mapping_21S_TC_C629975"/>
+            <class name="com.morningstar.mpp.tests.Dynamic_Mapping_25S_TC_C629979"/>
+            <class name="com.morningstar.mpp.tests.Output_02S_TC_C630003"/>
+            <class name="com.morningstar.mpp.tests.Output_05S_TC_C630006"/>
+            <class name="com.morningstar.mpp.tests.Output_06S_TC_C630007"/>
+            <class name="com.morningstar.mpp.tests.Output_08S_TC_C630009"/>
+            <class name="com.morningstar.mpp.tests.Output_09S_TC_C630010"/>
+            <class name="com.morningstar.mpp.tests.Output_10S_TC_C630011"/>
+            <class name="com.morningstar.mpp.tests.LoginPage_01S_TC_C629875"/>
+            <class name="com.morningstar.mpp.tests.LoginPage_01N_TC_C629892"/>
+            <class name="com.morningstar.mpp.tests.LoginPage_02S_TC_C629876"/>
+            <class name="com.morningstar.mpp.tests.LoginPage_05S_TC_C629879"/>
+            <class name="com.morningstar.mpp.tests.Header_02S_TC_C629894"/>
+            <class name="com.morningstar.mpp.tests.Header_03S_TC_C629895"/>
+            <class name="com.morningstar.mpp.tests.Header_04S_TC_C629896"/>
+            <class name="com.morningstar.mpp.tests.Footer_05S_TC_C629897"/>
+            <class name="com.morningstar.mpp.tests.Footer_06S_TC_C629898"/> 
+        </classes>
+    </test> <!-- Test -->
+	<listeners>
+		<listener class-name="com.morningstar.framework.report.AllureListener"></listener>
+	</listeners>
+</suite> <!-- Suite -->

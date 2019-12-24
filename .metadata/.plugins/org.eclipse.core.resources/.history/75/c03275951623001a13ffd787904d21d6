@@ -1,0 +1,28 @@
+package com.qa.testdocker;
+
+import java.net.MalformedURLException;
+import java.net.URL;
+
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.Test;
+
+public class TestDockerOnChrome 
+{
+	
+	@Test
+	public void getGoogleTitleOnChrome() throws MalformedURLException
+	{
+		DesiredCapabilities chromeCapabilities=DesiredCapabilities.chrome();
+		URL url=new URL("http://localhost:4444/wd/hub");
+		RemoteWebDriver driver=new RemoteWebDriver(url, chromeCapabilities);
+		driver.get("https://www.google.com");
+		System.out.println(driver.getTitle());
+		driver.close();	
+	}
+	
+	
+	
+	
+
+}

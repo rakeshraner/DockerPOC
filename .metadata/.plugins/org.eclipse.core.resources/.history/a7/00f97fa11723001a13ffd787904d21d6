@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Docker Run Suite" parallel="classes">
+    <test thread-count="3" name="Docker Test">
+
+
+   <classes>
+          <class name="com.morningstar.mpp.tests.Publisher_Tab_02S_TC_C629901"/>
+          <class name="com.morningstar.mpp.tests.Publisher_Tab_03S_TC_C629902"/>
+    </classes>
+            
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
