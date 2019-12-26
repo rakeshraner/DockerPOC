@@ -48,7 +48,7 @@
               <ul>
                 <li>
                   <a href="#" class="navigator-link " panel-name="test-xml-Docker_Run_Suite">
-                    <span>C:\DockerPOC\DockerPOC\src\main\resources\testng.xml</span>
+                    <span>C:\DockerPOC\DockerPOC\src\main\resources\Chrome_Scripts.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -90,7 +90,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">2 methods,   2 passed</span>
+                    <span class="method-stats">1 method,   1 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -102,11 +102,6 @@
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Docker_Run_Suite" title="com.qa.testdocker.TestDockerOnChrome" hash-for-method="getGoogleTitleOnChrome">getGoogleTitleOnChrome</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Docker_Run_Suite" title="com.qa.testdocker.TestDockerOnFirefox" hash-for-method="getGoogleTitleOnFirefox">getGoogleTitleOnFirefox</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Docker_Run_Suite -->
@@ -121,21 +116,6 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Docker_Run_Suite" class="panel Docker_Run_Suite">
-          <div class="suite-Docker_Run_Suite-class-passed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">com.qa.testdocker.TestDockerOnFirefox</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="getGoogleTitleOnFirefox">
-                  </a> <!-- getGoogleTitleOnFirefox -->
-                  <span class="method-name">getGoogleTitleOnFirefox</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Docker_Run_Suite-class-passed -->
           <div class="suite-Docker_Run_Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -154,7 +134,7 @@
         </div> <!-- panel Docker_Run_Suite -->
         <div panel-name="test-xml-Docker_Run_Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\DockerPOC\DockerPOC\src\main\resources\testng.xml</span>
+            <span class="header-content">C:\DockerPOC\DockerPOC\src\main\resources\Chrome_Scripts.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -165,7 +145,6 @@
     &lt;classes&gt;
       &lt;class name=&quot;com.qa.testdocker.StartAndStopDocker&quot;/&gt;
       &lt;class name=&quot;com.qa.testdocker.TestDockerOnChrome&quot;/&gt;
-      &lt;class name=&quot;com.qa.testdocker.TestDockerOnFirefox&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Docker Test --&gt;
 &lt;/suite&gt; &lt;!-- Docker Run Suite --&gt;
@@ -179,7 +158,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Docker Test (3 classes)</span>
+                <span class="test-name">Docker Test (2 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -205,20 +184,16 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(2);
+data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'getGoogleTitleOnFirefox')
-data.setCell(0, 2, 'com.qa.testdocker.TestDockerOnFirefox')
-data.setCell(0, 3, 67663);
-data.setCell(1, 0, 1)
-data.setCell(1, 1, 'getGoogleTitleOnChrome')
-data.setCell(1, 2, 'com.qa.testdocker.TestDockerOnChrome')
-data.setCell(1, 3, 2304);
+data.setCell(0, 1, 'getGoogleTitleOnChrome')
+data.setCell(0, 2, 'com.qa.testdocker.TestDockerOnChrome')
+data.setCell(0, 3, 1843);
 window.suiteTableData['Docker_Run_Suite']= { tableData: data, tableDiv: 'times-div-Docker_Run_Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <span class="suite-total-time">Total running time: 1 seconds</span>
               <div id="times-div-Docker_Run_Suite">
               </div> <!-- times-div-Docker_Run_Suite -->
             </div> <!-- times-div -->
@@ -254,21 +229,14 @@ return data;
               <div class="chronological-class-name">com.qa.testdocker.TestDockerOnChrome</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">getGoogleTitleOnChrome</span>
-                <span class="method-start">15031 ms</span>
-              </div> <!-- test-method -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.qa.testdocker.TestDockerOnFirefox</div> <!-- chronological-class-name -->
-              <div class="test-method">
-                <span class="method-name">getGoogleTitleOnFirefox</span>
-                <span class="method-start">15031 ms</span>
+                <span class="method-start">15026 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.qa.testdocker.StartAndStopDocker</div> <!-- chronological-class-name -->
               <div class="configuration-test after">
                 <span class="method-name">dockerStop</span>
-                <span class="method-start">82695 ms</span>
+                <span class="method-start">16870 ms</span>
               </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
