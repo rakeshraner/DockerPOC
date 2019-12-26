@@ -815,3 +815,893 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: unexpected 
 2019-12-24 12:54:40,426 [Worker-511] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-12-24 12:54:40,427 [Worker-511] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
 2019-12-24 12:54:40,427 [Worker-511] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 12:54:40,427 [Worker-511] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:06:51,312 [Worker-649] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:06:52,194 [Worker-649] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:06:53,701 [Worker-649] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:06:53,701 [Worker-649] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:06:53,935 [Worker-649] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-12-24 18:06:54,686 [Worker-650] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:06:54,687 [Worker-650] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:06:54,688 [Worker-650] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:06:54,688 [Worker-650] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:07:27,433 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:07:27,433 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:07:27,433 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:07:27,433 [Worker-654] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:07:39,574 [Worker-650] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:07:40,195 [Worker-650] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:07:41,113 [Worker-650] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:07:41,129 [Worker-650] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:07:41,475 [Worker-650] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:07:42,191 [Worker-649] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:07:42,191 [Worker-649] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:07:42,192 [Worker-649] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:07:42,192 [Worker-649] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:09:33,322 [Worker-651] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:09:33,903 [Worker-651] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:09:34,723 [Worker-651] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:09:34,723 [Worker-651] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:09:34,918 [Worker-651] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:09:35,593 [Worker-657] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:09:35,593 [Worker-657] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:09:35,594 [Worker-657] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:09:35,594 [Worker-657] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:10:25,606 [Worker-652] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:10:25,606 [Worker-652] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:10:25,606 [Worker-652] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:10:25,607 [Worker-652] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:10:33,796 [Worker-658] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:10:34,347 [Worker-658] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:10:35,260 [Worker-658] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:10:35,261 [Worker-658] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:10:35,442 [Worker-658] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:10:36,138 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:10:36,139 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:10:36,141 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:10:36,141 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:12:12,383 [Worker-659] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:12:13,220 [Worker-659] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:12:13,220 [Worker-659] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:12:13,222 [Worker-659] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:12:13,222 [Worker-659] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:12:21,517 [Worker-660] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:12:22,059 [Worker-660] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:12:22,997 [Worker-660] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:12:22,998 [Worker-660] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:12:23,450 [Worker-660] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:12:24,105 [Worker-661] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:12:24,105 [Worker-661] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:12:24,106 [Worker-661] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:12:24,106 [Worker-661] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:12:41,022 [Worker-657] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:12:41,022 [Worker-657] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:12:41,022 [Worker-657] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:12:41,022 [Worker-657] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:12:58,743 [Worker-657] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-24 18:12:58,744 [Worker-657] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-12-24 18:13:00,273 [Worker-663] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:13:00,273 [Worker-663] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:13:00,274 [Worker-663] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:13:00,274 [Worker-663] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:13:09,571 [Worker-657] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:13:10,068 [Worker-657] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:13:10,976 [Worker-657] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:13:10,976 [Worker-657] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:13:11,264 [Worker-657] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:13:12,059 [Worker-662] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:13:12,059 [Worker-662] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:13:12,061 [Worker-662] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:13:12,061 [Worker-662] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:15:53,884 [Worker-657] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:15:54,445 [Worker-657] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:15:55,286 [Worker-657] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:15:55,286 [Worker-657] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:15:55,434 [Worker-657] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:15:56,087 [Worker-669] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:15:56,087 [Worker-669] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:15:56,088 [Worker-669] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:15:56,088 [Worker-669] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:16:44,005 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:16:44,005 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:16:44,006 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:16:44,006 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:17:14,693 [Worker-657] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:17:14,693 [Worker-657] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:17:14,694 [Worker-657] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:17:14,694 [Worker-657] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:17:21,920 [Worker-666] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:17:22,468 [Worker-666] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:17:23,311 [Worker-666] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:17:23,311 [Worker-666] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:17:23,481 [Worker-666] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:17:24,031 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:17:24,032 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:17:24,033 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:17:24,033 [Worker-666] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:18:51,075 [Worker-670] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:18:51,075 [Worker-670] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:18:51,076 [Worker-670] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:18:51,076 [Worker-670] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:20:58,069 [Worker-657] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:20:58,695 [Worker-657] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:20:59,784 [Worker-657] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:21:00,644 [Worker-672] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:21:00,645 [Worker-672] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:21:00,646 [Worker-672] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:21:00,646 [Worker-672] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:22:03,882 [Worker-657] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:22:04,428 [Worker-657] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:22:05,643 [Worker-657] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:22:05,644 [Worker-657] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:22:05,789 [Worker-657] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:22:06,470 [Worker-670] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:22:06,470 [Worker-670] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:22:06,470 [Worker-670] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:22:06,470 [Worker-670] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:25:48,244 [Worker-673] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:25:48,988 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:25:48,989 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:25:48,990 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:25:48,990 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:25:56,518 [Worker-676] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:25:57,021 [Worker-676] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:25:57,779 [Worker-676] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:25:57,779 [Worker-676] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:25:57,964 [Worker-676] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:25:58,647 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:25:58,647 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:25:58,647 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:25:58,648 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:26:25,468 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:26:25,468 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:26:25,468 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:26:25,469 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:26:32,744 [Worker-676] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:26:33,267 [Worker-676] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:26:33,999 [Worker-676] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:26:34,000 [Worker-676] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:26:34,206 [Worker-676] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:26:34,895 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:26:34,895 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:26:34,896 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:26:34,897 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:28:10,894 [Worker-678] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:28:11,643 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:28:11,643 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:28:11,644 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:28:11,645 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:28:19,487 [Worker-678] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:28:19,963 [Worker-678] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:28:20,717 [Worker-678] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:28:20,718 [Worker-678] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:28:20,889 [Worker-678] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:28:21,497 [Worker-685] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:28:21,498 [Worker-685] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:28:21,499 [Worker-685] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:28:21,499 [Worker-685] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:28:41,448 [Worker-684] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:28:41,448 [Worker-684] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:28:41,449 [Worker-684] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:28:41,449 [Worker-684] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:28:48,071 [Worker-686] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:28:48,542 [Worker-686] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:28:49,327 [Worker-686] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:28:49,328 [Worker-686] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:28:49,538 [Worker-686] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:28:50,200 [Worker-681] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:28:50,200 [Worker-681] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:28:50,201 [Worker-681] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:28:50,201 [Worker-681] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:30:37,131 [Worker-675] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:30:38,064 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:30:38,064 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:30:38,064 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:30:38,065 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:30:43,948 [Worker-684] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:30:44,453 [Worker-684] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:30:45,493 [Worker-684] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:30:45,493 [Worker-684] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:30:45,661 [Worker-684] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:30:46,325 [Worker-682] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:30:46,325 [Worker-682] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:30:46,326 [Worker-682] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:30:46,326 [Worker-682] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:33:23,432 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:33:23,432 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:33:23,432 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:33:23,432 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:35:09,819 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.jar
+2019-12-24 18:35:10,279 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.jar
+2019-12-24 18:35:10,492 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.pom
+2019-12-24 18:35:10,640 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.pom
+2019-12-24 18:35:10,788 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/33/maven-plugins-33.pom
+2019-12-24 18:35:10,939 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/33/maven-plugins-33.pom
+2019-12-24 18:35:11,096 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/33/maven-parent-33.pom
+2019-12-24 18:35:11,280 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/33/maven-parent-33.pom
+2019-12-24 18:35:11,430 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/21/apache-21.pom
+2019-12-24 18:35:11,585 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/21/apache-21.pom
+2019-12-24 18:35:11,802 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.pom
+2019-12-24 18:35:11,966 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.pom
+2019-12-24 18:35:12,137 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.7.1/plexus-containers-1.7.1.pom
+2019-12-24 18:35:12,287 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.7.1/plexus-containers-1.7.1.pom
+2019-12-24 18:35:12,549 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.pom
+2019-12-24 18:35:12,699 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.pom
+2019-12-24 18:35:13,022 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.pom
+2019-12-24 18:35:13,169 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.pom
+2019-12-24 18:35:13,319 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-languages/0.9.10/plexus-languages-0.9.10.pom
+2019-12-24 18:35:13,468 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-languages/0.9.10/plexus-languages-0.9.10.pom
+2019-12-24 18:35:13,619 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.pom
+2019-12-24 18:35:13,766 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.pom
+2019-12-24 18:35:13,916 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/ow2/1.5/ow2-1.5.pom
+2019-12-24 18:35:14,067 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/ow2/1.5/ow2-1.5.pom
+2019-12-24 18:35:14,238 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.pom
+2019-12-24 18:35:14,423 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.pom
+2019-12-24 18:35:14,580 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.pom
+2019-12-24 18:35:14,729 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.pom
+2019-12-24 18:35:14,880 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.4/plexus-compiler-2.8.4.pom
+2019-12-24 18:35:15,029 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.4/plexus-compiler-2.8.4.pom
+2019-12-24 18:35:15,194 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.pom
+2019-12-24 18:35:15,347 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.pom
+2019-12-24 18:35:15,496 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.pom
+2019-12-24 18:35:15,645 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.pom
+2019-12-24 18:35:15,798 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.4/plexus-compilers-2.8.4.pom
+2019-12-24 18:35:15,947 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.4/plexus-compilers-2.8.4.pom
+2019-12-24 18:35:16,187 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.jar
+2019-12-24 18:35:16,338 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.jar
+2019-12-24 18:35:16,481 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.jar
+2019-12-24 18:35:16,933 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.jar
+2019-12-24 18:35:17,075 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.jar
+2019-12-24 18:35:17,238 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.jar
+2019-12-24 18:35:17,381 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.jar
+2019-12-24 18:35:17,700 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.jar
+2019-12-24 18:35:17,844 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.jar
+2019-12-24 18:35:18,696 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.jar
+2019-12-24 18:35:18,838 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.jar
+2019-12-24 18:35:18,992 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.jar
+2019-12-24 18:35:19,135 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.jar
+2019-12-24 18:35:19,287 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.jar
+2019-12-24 18:35:19,431 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.jar
+2019-12-24 18:35:19,584 [Worker-691] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.jar
+2019-12-24 18:35:19,960 [Worker-691] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:35:20,904 [Worker-691] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:35:20,904 [Worker-691] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:35:20,906 [Worker-691] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:35:20,906 [Worker-691] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:35:45,964 [Worker-693] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:35:46,506 [Worker-693] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:35:47,661 [Worker-693] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:35:47,662 [Worker-693] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:35:47,839 [Worker-693] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:35:48,494 [Worker-694] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:35:48,495 [Worker-694] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:35:48,496 [Worker-694] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:35:48,496 [Worker-694] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:46:17,632 [Worker-698] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:46:18,198 [Worker-698] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:46:19,452 [Worker-698] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:46:19,453 [Worker-698] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:46:19,594 [Worker-698] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:46:20,266 [Worker-697] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:46:20,267 [Worker-697] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:46:20,267 [Worker-697] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:46:20,267 [Worker-697] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:46:50,196 [Worker-704] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:46:50,197 [Worker-704] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:46:50,197 [Worker-704] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:46:50,197 [Worker-704] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:47:57,565 [Worker-700] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:47:58,462 [Worker-700] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:47:58,463 [Worker-700] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:47:58,463 [Worker-700] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:47:58,463 [Worker-700] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:48:07,499 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-12-24 18:48:16,010 [Worker-706] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-24 18:48:16,010 [Worker-706] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-12-24 18:48:26,485 [Worker-701] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:48:26,994 [Worker-701] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:48:27,976 [Worker-701] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:48:27,976 [Worker-701] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:48:28,096 [Worker-701] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:48:28,796 [Worker-706] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:48:28,796 [Worker-706] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:48:28,797 [Worker-706] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:48:28,797 [Worker-706] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:49:26,904 [Worker-700] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-24 18:49:26,904 [Worker-700] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-12-24 18:49:58,330 [Worker-701] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-24 18:49:58,331 [Worker-701] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-12-24 18:49:59,769 [Worker-698] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:49:59,769 [Worker-698] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:49:59,769 [Worker-698] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:49:59,770 [Worker-698] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:50:22,003 [Worker-708] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:50:22,003 [Worker-708] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:50:22,003 [Worker-708] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:50:22,003 [Worker-708] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-24 18:50:34,028 [Worker-698] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 18:50:34,544 [Worker-698] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-24 18:50:35,456 [Worker-698] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-24 18:50:35,456 [Worker-698] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-24 18:50:35,636 [Worker-698] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 18:50:36,325 [Worker-701] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:50:36,325 [Worker-701] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-24 18:50:36,326 [Worker-701] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 18:50:36,326 [Worker-701] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 11:19:46,919 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-12-26 11:19:49,259 [Worker-830] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 11:19:49,259 [Worker-830] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-12-26 11:21:01,113 [Worker-838] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:21:01,113 [Worker-838] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 11:21:01,113 [Worker-838] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:21:01,114 [Worker-838] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 11:21:09,277 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-12-26 11:21:15,060 [Worker-833] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 11:21:15,060 [Worker-833] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-12-26 11:22:48,323 [Worker-833] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 11:22:48,324 [Worker-833] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-12-26 11:23:36,076 [Worker-838] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:23:36,076 [Worker-838] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 11:23:36,077 [Worker-838] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:23:36,077 [Worker-838] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 11:30:24,318 [Worker-844] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 11:30:24,899 [Worker-844] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 11:30:26,139 [Worker-844] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 11:30:26,139 [Worker-844] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 11:30:26,294 [Worker-844] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-26 11:30:26,970 [Worker-846] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:30:26,970 [Worker-846] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 11:30:26,971 [Worker-846] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:30:26,972 [Worker-846] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 11:36:38,971 [Worker-852] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 11:36:39,732 [Worker-852] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:36:39,732 [Worker-852] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 11:36:39,733 [Worker-852] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:36:39,733 [Worker-852] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 11:36:55,569 [Worker-854] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 11:36:56,313 [Worker-854] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:36:56,313 [Worker-854] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 11:36:56,314 [Worker-854] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:36:56,314 [Worker-854] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 11:37:03,213 [Worker-853] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 11:37:03,679 [Worker-853] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 11:37:04,438 [Worker-853] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 11:37:04,439 [Worker-853] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 11:37:04,624 [Worker-853] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-26 11:37:05,260 [Worker-855] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:37:05,260 [Worker-855] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 11:37:05,261 [Worker-855] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:37:05,261 [Worker-855] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 11:37:15,399 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-12-26 11:37:17,093 [Worker-853] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 11:37:17,093 [Worker-853] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-12-26 11:37:57,678 [Worker-857] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:37:57,678 [Worker-857] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 11:37:57,679 [Worker-857] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:37:57,679 [Worker-857] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 11:38:05,729 [Worker-857] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 11:38:06,299 [Worker-857] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 11:38:07,092 [Worker-857] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 11:38:07,093 [Worker-857] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 11:38:07,257 [Worker-857] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-26 11:38:07,924 [Worker-853] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:38:07,925 [Worker-853] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 11:38:07,925 [Worker-853] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:38:07,925 [Worker-853] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 11:38:18,508 [Worker-853] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 11:38:19,259 [Worker-853] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:38:19,259 [Worker-853] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 11:38:19,260 [Worker-853] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:38:19,260 [Worker-853] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 11:38:31,106 [Worker-849] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:38:31,107 [Worker-849] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 11:38:31,107 [Worker-849] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:38:31,107 [Worker-849] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 11:38:39,464 [Worker-857] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 11:38:39,958 [Worker-857] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 11:38:40,694 [Worker-857] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 11:38:40,695 [Worker-857] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 11:38:40,881 [Worker-857] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-26 11:38:41,514 [Worker-851] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:38:41,514 [Worker-851] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 11:38:41,515 [Worker-851] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:38:41,515 [Worker-851] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 11:39:14,704 [Worker-856] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 11:39:15,436 [Worker-856] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:39:15,436 [Worker-856] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 11:39:15,437 [Worker-856] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:39:15,437 [Worker-856] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 11:39:22,000 [Worker-857] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 11:39:22,461 [Worker-857] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 11:39:23,170 [Worker-857] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 11:39:23,170 [Worker-857] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 11:39:23,351 [Worker-857] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-26 11:39:24,001 [Worker-853] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:39:24,002 [Worker-853] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 11:39:24,002 [Worker-853] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:39:24,002 [Worker-853] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 11:51:39,013 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-12-26 11:51:40,730 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 11:51:43,380 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:51:43,380 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 11:51:43,382 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:51:43,382 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 11:51:43,770 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59-sources.jar
+2019-12-26 11:51:43,907 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59-sources.jar
+2019-12-26 11:51:43,990 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-java:3.141.59
+2019-12-26 11:51:44,509 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar
+2019-12-26 11:51:45,176 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar
+2019-12-26 11:51:45,224 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-api:3.141.59
+2019-12-26 11:51:45,741 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59-sources.jar
+2019-12-26 11:51:46,006 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59-sources.jar
+2019-12-26 11:51:46,032 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-chrome-driver:3.141.59
+2019-12-26 11:51:46,550 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59-sources.jar
+2019-12-26 11:51:46,700 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59-sources.jar
+2019-12-26 11:51:46,735 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-edge-driver:3.141.59
+2019-12-26 11:51:47,265 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59-sources.jar
+2019-12-26 11:51:47,666 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59-sources.jar
+2019-12-26 11:51:47,695 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-firefox-driver:3.141.59
+2019-12-26 11:51:48,213 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59-sources.jar
+2019-12-26 11:51:48,480 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59-sources.jar
+2019-12-26 11:51:48,510 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-ie-driver:3.141.59
+2019-12-26 11:51:49,035 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59-sources.jar
+2019-12-26 11:51:49,177 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59-sources.jar
+2019-12-26 11:51:49,215 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-opera-driver:3.141.59
+2019-12-26 11:51:49,733 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59-sources.jar
+2019-12-26 11:51:50,440 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59-sources.jar
+2019-12-26 11:51:50,469 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-remote-driver:3.141.59
+2019-12-26 11:51:50,995 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59-sources.jar
+2019-12-26 11:51:51,259 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59-sources.jar
+2019-12-26 11:51:51,288 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-safari-driver:3.141.59
+2019-12-26 11:51:51,816 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59-sources.jar
+2019-12-26 11:51:52,224 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59-sources.jar
+2019-12-26 11:51:52,277 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-support:3.141.59
+2019-12-26 11:51:52,804 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15-sources.jar
+2019-12-26 11:51:55,154 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15-sources.jar
+2019-12-26 11:51:55,191 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.8.15
+2019-12-26 11:51:55,706 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-exec/1.3/commons-exec-1.3-sources.jar
+2019-12-26 11:51:56,135 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-exec/1.3/commons-exec-1.3-sources.jar
+2019-12-26 11:51:56,164 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-exec:1.3
+2019-12-26 11:51:56,685 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/25.0-jre/guava-25.0-jre-sources.jar
+2019-12-26 11:52:00,444 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/25.0-jre/guava-25.0-jre-sources.jar
+2019-12-26 11:52:00,470 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:25.0-jre
+2019-12-26 11:52:00,997 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9-sources.jar
+2019-12-26 11:52:01,005 [Worker-6: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.google.code.findbugs:jsr305:1.3.9
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.code.findbugs:jsr305:jar:sources:1.3.9
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.600.v20191122-2104.jar:na]
+2019-12-26 11:52:01,527 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0-sources.jar
+2019-12-26 11:52:05,055 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0-sources.jar
+2019-12-26 11:52:05,081 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.checkerframework:checker-compat-qual:2.0.0
+2019-12-26 11:52:05,600 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3-sources.jar
+2019-12-26 11:52:05,900 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3-sources.jar
+2019-12-26 11:52:05,928 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.errorprone:error_prone_annotations:2.1.3
+2019-12-26 11:52:06,446 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1-sources.jar
+2019-12-26 11:52:06,713 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1-sources.jar
+2019-12-26 11:52:06,745 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.j2objc:j2objc-annotations:1.1
+2019-12-26 11:52:07,273 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14-sources.jar
+2019-12-26 11:52:07,419 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14-sources.jar
+2019-12-26 11:52:07,469 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.mojo:animal-sniffer-annotations:1.14
+2019-12-26 11:52:08,000 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0-sources.jar
+2019-12-26 11:52:08,937 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0-sources.jar
+2019-12-26 11:52:08,970 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.squareup.okhttp3:okhttp:3.11.0
+2019-12-26 11:52:09,491 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.14.0/okio-1.14.0-sources.jar
+2019-12-26 11:52:09,932 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.14.0/okio-1.14.0-sources.jar
+2019-12-26 11:52:09,986 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.squareup.okio:okio:1.14.0
+2019-12-26 11:52:10,512 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-server/2.53.1/selenium-server-2.53.1-sources.jar
+2019-12-26 11:52:11,856 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-server/2.53.1/selenium-server-2.53.1-sources.jar
+2019-12-26 11:52:11,894 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-server:2.53.1
+2019-12-26 11:52:12,417 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/beust/jcommander/1.48/jcommander-1.48-sources.jar
+2019-12-26 11:52:12,834 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/beust/jcommander/1.48/jcommander-1.48-sources.jar
+2019-12-26 11:52:12,858 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.beust:jcommander:1.48
+2019-12-26 11:52:13,383 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48-sources.jar
+2019-12-26 11:52:17,680 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48-sources.jar
+2019-12-26 11:52:17,730 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.bouncycastle:bcprov-jdk15on:1.48
+2019-12-26 11:52:18,385 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48-sources.jar
+2019-12-26 11:52:19,386 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48-sources.jar
+2019-12-26 11:52:19,421 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.bouncycastle:bcpkix-jdk15on:1.48
+2019-12-26 11:52:19,920 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mx4j/mx4j-tools/3.0.1/mx4j-tools-3.0.1-sources.jar
+2019-12-26 11:52:20,815 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mx4j/mx4j-tools/3.0.1/mx4j-tools-3.0.1-sources.jar
+2019-12-26 11:52:20,888 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mx4j:mx4j-tools:3.0.1
+2019-12-26 11:52:21,409 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/jetty-repacked/9.2.13.v20150730/jetty-repacked-9.2.13.v20150730-sources.jar
+2019-12-26 11:52:21,549 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/jetty-repacked/9.2.13.v20150730/jetty-repacked-9.2.13.v20150730-sources.jar
+2019-12-26 11:52:21,582 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:jetty-repacked:9.2.13.v20150730
+2019-12-26 11:52:22,106 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar
+2019-12-26 11:52:22,902 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar
+2019-12-26 11:52:22,985 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:javax.servlet-api:3.1.0
+2019-12-26 11:52:23,473 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/jetty-rc-repacked/5/jetty-rc-repacked-5-sources.jar
+2019-12-26 11:52:24,945 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/jetty-rc-repacked/5/jetty-rc-repacked-5-sources.jar
+2019-12-26 11:52:24,982 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:jetty-rc-repacked:5
+2019-12-26 11:52:25,503 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0-sources.jar
+2019-12-26 11:52:25,644 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0-sources.jar
+2019-12-26 11:52:25,670 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.jcip:jcip-annotations:1.0
+2019-12-26 11:52:26,169 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.8/snakeyaml-1.8-sources.jar
+2019-12-26 11:52:26,786 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.8/snakeyaml-1.8-sources.jar
+2019-12-26 11:52:26,816 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.yaml:snakeyaml:1.8
+2019-12-26 11:52:27,386 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10-sources.jar
+2019-12-26 11:52:28,424 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10-sources.jar
+2019-12-26 11:52:28,481 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.10
+2019-12-26 11:52:29,003 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10-sources.jar
+2019-12-26 11:52:29,536 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10-sources.jar
+2019-12-26 11:52:29,568 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.10
+2019-12-26 11:52:30,139 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar
+2019-12-26 11:52:30,295 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar
+2019-12-26 11:52:30,334 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:1.1
+2019-12-26 11:52:30,847 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.7.0/ant-1.7.0-sources.jar
+2019-12-26 11:52:35,074 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.7.0/ant-1.7.0-sources.jar
+2019-12-26 11:52:35,129 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant:1.7.0
+2019-12-26 11:52:35,620 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.7.0/ant-launcher-1.7.0-sources.jar
+2019-12-26 11:52:35,627 [Worker-6: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.ant:ant-launcher:1.7.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.ant:ant-launcher:jar:sources:1.7.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.600.v20191122-2104.jar:na]
+2019-12-26 11:52:36,130 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/beanshell/bsh/2.0b4/bsh-2.0b4-sources.jar
+2019-12-26 11:52:36,132 [Worker-6: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.beanshell:bsh:2.0b4
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.beanshell:bsh:jar:sources:2.0b4
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.600.v20191122-2104.jar:na]
+2019-12-26 11:52:36,448 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:52:36,448 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 11:52:36,449 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:52:36,449 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 11:52:37,799 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9-javadoc.jar
+2019-12-26 11:52:37,805 [Worker-18: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.google.code.findbugs:jsr305:1.3.9
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.code.findbugs:jsr305:jar:javadoc:1.3.9
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.600.v20191122-2104.jar:na]
+2019-12-26 11:52:38,325 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.7.0/ant-launcher-1.7.0-javadoc.jar
+2019-12-26 11:52:38,328 [Worker-18: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.ant:ant-launcher:1.7.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.ant:ant-launcher:jar:javadoc:1.7.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.600.v20191122-2104.jar:na]
+2019-12-26 11:52:38,831 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/beanshell/bsh/2.0b4/bsh-2.0b4-javadoc.jar
+2019-12-26 11:52:38,838 [Worker-18: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.beanshell:bsh:2.0b4
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.beanshell:bsh:jar:javadoc:2.0b4
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.600.v20191122-2104.jar:na]
+2019-12-26 12:17:42,460 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 12:17:43,158 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 12:17:44,032 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 12:17:44,033 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 12:17:44,242 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-26 12:17:44,777 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:17:44,777 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:17:44,779 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:17:44,779 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:17:55,488 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-12-26 12:17:59,632 [Worker-20: Launching DockerPOC] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 12:17:59,633 [Worker-20: Launching DockerPOC] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-12-26 12:21:37,464 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-26 12:27:46,887 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 12:27:49,045 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:27:49,045 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:27:49,047 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:27:49,047 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:27:50,491 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 12:27:52,826 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:27:52,827 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:27:52,828 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:27:52,828 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:28:04,082 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 12:28:04,771 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 12:28:05,703 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 12:28:05,704 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 12:28:05,894 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-26 12:28:06,550 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:28:06,551 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:28:06,552 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:28:06,553 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:29:30,403 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 12:29:31,160 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 12:29:32,066 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 12:29:32,067 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 12:29:32,254 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-26 12:29:33,037 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:29:33,038 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:29:33,039 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:29:33,040 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:29:52,250 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-12-26 12:29:54,563 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 12:29:54,564 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-12-26 12:30:07,952 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:30:07,952 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:30:07,953 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:30:07,954 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:30:32,379 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:30:32,380 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:30:32,380 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:30:32,380 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:30:47,155 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 12:30:47,742 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 12:30:48,550 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 12:30:48,551 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 12:30:48,738 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-26 12:30:49,238 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:30:49,238 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:30:49,240 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:30:49,240 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:31:00,072 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 12:31:00,674 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 12:31:01,536 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 12:31:01,537 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 12:31:01,736 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-26 12:31:02,438 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:31:02,438 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:31:02,440 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:31:02,440 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:31:04,374 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-12-26 12:31:10,606 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 12:31:10,606 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-12-26 12:33:55,173 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:33:55,173 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:33:55,174 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:33:55,174 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:34:05,710 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-12-26 12:34:07,554 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 12:34:07,554 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-12-26 12:35:07,568 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 12:35:08,385 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:35:08,385 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:35:08,386 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:35:08,386 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:35:14,620 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 12:35:15,422 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:35:15,422 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:35:15,423 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:35:15,424 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:35:26,653 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 12:35:27,181 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 12:35:27,961 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 12:35:27,961 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 12:35:28,166 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-26 12:35:28,880 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:35:28,880 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:35:28,881 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:35:28,881 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:36:23,728 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 12:36:24,502 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:36:24,502 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:36:24,504 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:36:24,504 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:36:28,190 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 12:36:28,990 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:36:28,990 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:36:28,991 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:36:28,992 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:36:36,596 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 12:36:37,166 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 12:36:37,954 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 12:36:37,954 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 12:36:38,169 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-26 12:36:38,785 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:36:38,786 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:36:38,787 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:36:38,787 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:36:54,068 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:36:54,068 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:36:54,069 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:36:54,069 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:37:00,375 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-12-26 12:37:01,778 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 12:37:01,779 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-12-26 12:48:13,398 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:48:13,403 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:48:13,405 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:48:13,405 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:48:32,710 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-12-26 12:48:34,407 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 12:48:34,408 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-12-26 12:49:00,684 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 12:49:01,510 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 12:49:02,498 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 12:49:02,499 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 12:49:02,742 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-12-26 12:49:03,308 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:49:03,309 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:49:03,310 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:49:03,310 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:50:24,851 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:50:24,851 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:50:24,851 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:50:24,851 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:54:01,684 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 12:54:02,587 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:54:02,587 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:54:02,588 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:54:02,588 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:54:11,323 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 12:54:11,952 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 12:54:13,028 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 12:54:13,029 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 12:54:13,175 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-26 12:54:13,977 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:54:13,977 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:54:13,978 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:54:13,979 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:54:21,244 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-12-26 12:54:26,612 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 12:54:26,612 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-12-26 12:56:31,004 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-12-26 12:57:03,130 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 12:57:03,130 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B Test
+2019-12-26 12:57:43,947 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-12-26 12:57:43,989 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 12:57:43,989 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B Test
+2019-12-26 12:57:52,105 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 12:57:52,710 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 12:57:53,526 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 12:57:53,526 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 12:57:53,699 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-26 12:57:54,388 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:57:54,388 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 12:57:54,390 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:57:54,390 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 12:57:59,547 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-12-26 12:57:59,581 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 12:57:59,582 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B Test
+2019-12-26 12:58:53,070 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 12:58:53,072 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-12-26 13:01:40,703 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 13:01:40,703 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 13:01:40,704 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 13:01:40,704 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 13:01:52,546 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 13:01:52,546 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-12-26 14:24:38,632 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 14:24:38,633 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2019-12-26 14:35:47,594 [Worker-72] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 14:35:48,272 [Worker-72] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 14:35:49,494 [Worker-72] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 14:35:49,494 [Worker-72] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 14:35:49,702 [Worker-72] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-12-26 14:35:50,508 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:35:50,508 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\main\resources
+2019-12-26 14:35:50,509 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:35:50,510 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 14:36:00,517 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-12-26 14:36:00,527 [Worker-88] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 14:36:00,527 [Worker-88] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2019-12-26 15:10:28,068 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:10:28,073 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-26 15:10:28,074 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:10:28,074 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 15:10:43,463 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:10:43,465 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-26 15:10:43,470 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:10:43,470 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 15:10:48,138 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:10:48,140 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-26 15:10:48,142 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:10:48,143 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 15:11:10,018 [Worker-102] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 15:11:11,102 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:11:11,104 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-26 15:11:11,106 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:11:11,106 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 15:11:19,705 [Worker-106] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 15:11:20,309 [Worker-106] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 15:11:21,503 [Worker-106] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 15:11:21,504 [Worker-106] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DockerPOC/src/main/resources
+2019-12-26 15:11:21,518 [Worker-106] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 15:11:21,721 [Worker-106] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-12-26 15:11:22,451 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:11:22,452 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-26 15:11:22,466 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:11:22,466 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 15:11:34,071 [Worker-106] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 15:11:34,072 [Worker-106] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-12-26 15:11:38,473 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:11:38,474 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-26 15:11:38,476 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:11:38,476 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 15:11:51,457 [Worker-101] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 15:11:52,395 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:11:52,396 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-26 15:11:52,397 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:11:52,398 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 15:12:01,505 [Worker-102] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 15:12:02,098 [Worker-102] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DockerPOC:DockerPOC:0.0.1-SNAPSHOT @ C:\DockerPOC\DockerPOC\pom.xml.
+2019-12-26 15:12:02,936 [Worker-102] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/main/java
+2019-12-26 15:12:02,937 [Worker-102] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DockerPOC/src/main/resources
+2019-12-26 15:12:02,937 [Worker-102] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DockerPOC/src/test/java
+2019-12-26 15:12:03,116 [Worker-102] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-26 15:12:03,843 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:12:03,844 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-26 15:12:03,855 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:12:03,855 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources
+2019-12-26 15:12:12,094 [Worker-102] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\DockerPOC\DockerPOC
+2019-12-26 15:12:12,095 [Worker-102] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-12-26 15:13:54,921 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:13:54,922 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-26 15:13:54,923 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:13:54,923 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\DockerPOC\DockerPOC\src\test\resources

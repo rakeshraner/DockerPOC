@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Docker Run Suite" duration-ms="42391" started-at="2019-12-24T06:13:03Z" finished-at="2019-12-24T06:13:45Z">
+  <suite name="Docker Run Suite" duration-ms="97704" started-at="2019-12-26T09:42:15Z" finished-at="2019-12-26T09:43:53Z">
     <groups>
     </groups>
-    <test name="Docker Test" duration-ms="42391" started-at="2019-12-24T06:13:03Z" finished-at="2019-12-24T06:13:45Z">
+    <test name="Docker Test" duration-ms="97704" started-at="2019-12-26T09:42:15Z" finished-at="2019-12-26T09:43:53Z">
       <class name="com.qa.testdocker.StartAndStopDocker">
-        <test-method status="PASS" signature="dockerStart()[pri:0, instance:com.qa.testdocker.StartAndStopDocker@22f71333]" name="dockerStart" is-config="true" duration-ms="15010" started-at="2019-12-24T11:43:03Z" finished-at="2019-12-24T11:43:18Z">
+        <test-method status="PASS" signature="dockerStart()[pri:0, instance:com.qa.testdocker.StartAndStopDocker@22f71333]" name="dockerStart" is-config="true" duration-ms="15014" started-at="2019-12-26T15:12:15Z" finished-at="2019-12-26T15:12:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dockerStart -->
-        <test-method status="PASS" signature="dockerStop()[pri:0, instance:com.qa.testdocker.StartAndStopDocker@22f71333]" name="dockerStop" is-config="true" duration-ms="15003" started-at="2019-12-24T11:43:30Z" finished-at="2019-12-24T11:43:45Z">
+        <test-method status="PASS" signature="dockerStop()[pri:0, instance:com.qa.testdocker.StartAndStopDocker@22f71333]" name="dockerStop" is-config="true" duration-ms="15008" started-at="2019-12-26T15:13:38Z" finished-at="2019-12-26T15:13:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dockerStop -->
       </class> <!-- com.qa.testdocker.StartAndStopDocker -->
       <class name="com.qa.testdocker.TestDockerOnFirefox">
-        <test-method status="PASS" signature="getGoogleTitleOnFirefox()[pri:0, instance:com.qa.testdocker.TestDockerOnFirefox@6aaa5eb0]" name="getGoogleTitleOnFirefox" duration-ms="12366" started-at="2019-12-24T11:43:18Z" finished-at="2019-12-24T11:43:30Z">
+        <test-method status="PASS" signature="getGoogleTitleOnFirefox()[pri:0, instance:com.qa.testdocker.TestDockerOnFirefox@6aaa5eb0]" name="getGoogleTitleOnFirefox" duration-ms="67663" started-at="2019-12-26T15:12:31Z" finished-at="2019-12-26T15:13:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getGoogleTitleOnFirefox -->
       </class> <!-- com.qa.testdocker.TestDockerOnFirefox -->
       <class name="com.qa.testdocker.TestDockerOnChrome">
-        <test-method status="PASS" signature="getGoogleTitleOnChrome()[pri:0, instance:com.qa.testdocker.TestDockerOnChrome@13969fbe]" name="getGoogleTitleOnChrome" duration-ms="2486" started-at="2019-12-24T11:43:18Z" finished-at="2019-12-24T11:43:20Z">
+        <test-method status="PASS" signature="getGoogleTitleOnChrome()[pri:0, instance:com.qa.testdocker.TestDockerOnChrome@13969fbe]" name="getGoogleTitleOnChrome" duration-ms="2304" started-at="2019-12-26T15:12:31Z" finished-at="2019-12-26T15:12:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getGoogleTitleOnChrome -->
