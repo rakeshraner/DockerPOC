@@ -16,7 +16,7 @@ public class TestDockerOnFirefox
 	{
 		DesiredCapabilities fireFoxCapabilities=new DesiredCapabilities();
 		fireFoxCapabilities.setBrowserName(BrowserType.FIREFOX);
-		WebDriver driver=new RemoteWebDriver(new URL("http://localhost:4546/wd/hub"), fireFoxCapabilities);
+		WebDriver driver=new RemoteWebDriver(new URL("http://localhost:4545/wd/hub"), fireFoxCapabilities);
 		driver.get("https://www.yahoo.com");
 		System.out.println(driver.getTitle());
 		
